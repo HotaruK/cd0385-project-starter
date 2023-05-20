@@ -1,2 +1,6 @@
 .idea
 batch/venv
+kaggle.json
+bike-sharing-demand
+project\.ipynb_checkpoints
+project\AutogluonModels
